@@ -12,18 +12,6 @@ Final Year Project on Road Accident Prediction using user's Location,weather con
   <img width="460" height="300" src="https://user-images.githubusercontent.com/29819481/67921930-4c64fe80-fbcf-11e9-9b87-c3225daad396.png">
 </p>
 
-# VM 
-<p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/29819481/67922038-8a622280-fbcf-11e9-828a-22fb0abd35b1.png">
-</p>
-
-Fig 4.6 Azure VM page
-
-Virtual Machine deployed on Azure.
-
-We have chosen Random Forest as our model as it has the highest accuracy (86.86%).
-
-Input taken from user is sent to the backend flask server which feeds the parameters to the ML model and returns the result. It also sends a message to the police to take preventive measures.
 
 **RESULTS AND DISCUSSIONS**
 
